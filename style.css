@@ -1,0 +1,148 @@
+.img1 {
+    border: 0.5px solid rgb(75, 75, 75);
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    top: 20px;
+    left: 40px;
+}
+
+.container {
+    position: relative;
+    background-color: white;
+    width: 700px;
+    height: 660px;
+    border-radius: 3px;
+    border: 1px solid rgb(156, 156, 156);
+}
+
+.item1 {
+    position: absolute;
+    top: 00px;
+    left: 200px;
+    font-weight: light;
+}
+
+body {
+    background-color: rgb(252, 250, 250);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+.item2 {
+    position: absolute;
+    top: 22px;
+    left: 400px;
+}
+
+.item2 button {
+    width: 100px;
+    height: 20px;
+    background-color: rgb(0, 132, 255);
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.item2 a {
+    text-decoration: none;
+    color: white;
+}
+
+.item3 {
+    position: absolute;
+    top: 22px;
+    left: 510px;
+}
+
+.item3 button {
+    width: 25px;
+    height: 20px;
+    background-color: rgb(0, 132, 255);
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.item3 a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.item4 {
+    top: 24px;
+    left: 550px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.item6, .item8, .item10 {
+    font-weight: lighter;
+    font-size: 10px;
+    position: absolute;
+}
+
+.item5, .item7, .item9 {
+    font-size: 15px;
+    position: absolute;
+    font-weight: bold;
+}
+
+.item5 {
+    top: 50px;
+    left: 200px;
+}
+
+.item6 {
+    top: 60px;
+    left: 245px;
+}
+
+.item7 {
+    top: 50px;
+    left: 300px;
+}
+
+.item8 {
+    top: 60px;
+    left: 345px;
+}
+
+.item9 {
+    top: 50px;
+    left: 420px;
+}
+
+.item10 {
+    top: 60px;
+    left: 465px;
+}
+
+.item11 {
+    font-size: 10px;
+    position: absolute;
+    top: 90px;
+    left: 200px;
+}
+
+.item12 {
+    font-size: 10px;
+    position: absolute;
+    top: 135px;
+    left: 200px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    position: absolute;
+    top: 200px;
+    gap: 10px;
+    left: 10px;
+}
+
+.grid-item {
+    cursor: pointer;
+}

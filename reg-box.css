@@ -1,0 +1,195 @@
+.phone1 {
+    position: absolute;
+    left: 340px;
+    top: 70px;
+}
+
+.phone2 {
+    position: absolute;
+    left: 365px;
+    top: 100px;
+}
+
+body {
+    background-color: #fafafa;
+    font-family: sans-serif;
+}
+
+.item1 {
+    position: absolute;
+    cursor: pointer;
+}
+
+.container {
+    position: relative;
+    background-color: #fff;
+    width: 400px;
+    height: 470px;
+    border: 1px solid rgb(160, 160, 160);
+    left: 800px;
+    top: 40px;
+}
+
+.phone {
+    position: relative;
+    background-color: #fafafa;
+}
+
+.item1 {
+    position: absolute;
+    right: 100px;
+    top: 40px;
+}
+
+.item2 input {
+    width: 250px;
+    height: 30px;
+    border-radius: 3px;
+    background-color: #fafafa;
+    border: 1px solid #dbdbdb;
+    padding: 2px;
+}
+
+.item2 {
+    position: absolute;
+    top: 150px;
+    right: 70px;
+}
+
+.item3 input {
+    width: 250px;
+    height: 30px;
+    border-radius: 3px;
+    background-color: #fafafa;
+    border: 1px solid #dbdbdb;
+    padding: 2px;
+}
+
+.item3 {
+    position: absolute;
+    top: 195px;
+    right: 70px;
+}
+
+.item4 button {
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    background-color: #0095F6;
+}
+
+.item4 {
+    position: absolute;
+    top: 250px;
+    right: 70px;
+}
+
+.item4 a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.item5 {
+    position: absolute;
+    color: #b6b5b5;
+    top: 300px;
+    left: 190px;
+}
+
+.item6 {
+    position: absolute;
+    top: 315px;
+    right: 30px;
+}
+
+.item7 {
+    position: absolute;
+    top: 315px;
+    left: 30px;
+}
+
+.item8 img {
+    width: 30px;
+    cursor: pointer;
+}
+
+.item8 {
+    position: absolute;
+    top: 360px;
+    left: 95px;
+}
+
+.item9 a {
+    text-decoration: none;
+    color: #3566A5;
+    font-weight: 600;
+}
+
+.item9 {
+    position: absolute;
+    top: 365px;
+    left: 140px;
+}
+
+.item10 a {
+    text-decoration: none;
+    color: #383838;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.item10 {
+    position: absolute;
+    top: 410px;
+    left: 155px;
+}
+
+.container2 {
+    position: relative;
+    background-color: #fff;
+    width: 400px;
+    height: 80px;
+    border: 1px solid rgb(160, 159, 159);
+    left: 800px;
+    top: 70px;
+}
+
+.item11 {
+    position: absolute;
+    right: 160px;
+    top: 15px;
+}
+
+.item12 a {
+    text-decoration: none;
+    font-weight: 600;
+    color: #52a1fb;
+}
+
+.item12 {
+    position: absolute;
+    top: 30px;
+    right: 90px;
+}
+
+.item15 {
+    right: 400px;
+    position: absolute;
+    top: 640px;
+}
+
+.item13 {
+    position: absolute;
+    top: 690px;
+    right: 450px;
+    cursor: pointer;
+}
+
+.item14 {
+    position: absolute;
+    top: 690px;
+    right: 320px;
+    cursor: pointer;
+}
